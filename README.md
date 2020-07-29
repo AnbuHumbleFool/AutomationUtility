@@ -1,2 +1,2 @@
 # AutomationUtility
-This repository contains JAVA utlities and selenium metthods.
+This repository contains JAVA utlities and selenium methods.
